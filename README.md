@@ -32,17 +32,8 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 **TruePositive** — A beginner-friendly SIEM: log ingestion, tunable alert scoring, and an onboarding path built for people learning detection fundamentals.
 `FastAPI` `React` `PostgreSQL` `Docker`
 
-**DA vs. ML: Provincial Agriculture Analysis** — Compared traditional descriptive analysis against Random Forest, KMeans, and PCA on real Department of Agriculture data — surfacing what the traditional read misses.
-`scikit-learn` `Pandas`
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gncrlatienza-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gncrlatienza-eng&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+**Whack.io — Arduino-Based Interactive Game (2026)** — Two-player interactive arcade system built with JPCS. Programmed core game logic in C++ on an Arduino Mega, handling real-time button input, LED feedback, and score tracking across multiple integrated hardware components; contributed primarily to the physical build — wiring and hardware assembly.
+`C++` `Arduino Mega`
 
 <br/>
 
@@ -50,9 +41,7 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 
 <div align="center">
 
-<!-- Replace REPLACE_ME_GMAIL and REPLACE_ME_LINKEDIN with your real handles before pushing. -->
-<a href="mailto:REPLACE_ME_GMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/REPLACE_ME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gncrlatienza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gian-carlo-atienza-b11126389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
