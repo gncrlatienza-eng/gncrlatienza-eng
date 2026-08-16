@@ -37,11 +37,7 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 
 <br/>
 
-## Contact
-
 <div align="center">
-
-<a href="mailto:gncrlatienza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gian-carlo-atienza-b11126389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" width="100%"/>
 
