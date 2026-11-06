@@ -29,8 +29,11 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 **[bantAI](https://github.com/gncrlatienza-eng/bantAI)** — Android app that classifies SMS smishing on-device in real time. Fine-tuned XLM-RoBERTa, HDBSCAN campaign clustering, NestJS backend hardened with rate limiting, JWT best practices, and dependency scanning.
 `Kotlin` `Jetpack Compose` `NestJS` `PyTorch` `PostgreSQL`
 
-**TruePositive** — A beginner-friendly SIEM: log ingestion, tunable alert scoring, and an onboarding path built for people learning detection fundamentals.
-`FastAPI` `React` `PostgreSQL` `Docker`
+**[TruePositive](https://github.com/gncrlatienza-eng/truepositive)** ([live](https://truepositive-alpha.vercel.app)): a beginner-friendly SIEM. A Windows agent ships Event Logs to a FastAPI backend that scores them against MITRE-mapped rules, and the dashboard explains each alert in plain language. I reviewed it against OWASP ASVS, removed a local privilege escalation from the agent's own design, and deployed it on free tiers with CI on every push.
+`FastAPI` `React` `PostgreSQL` `Python` `Docker` `GitHub Actions`
+
+**[SortJunk](https://github.com/gncrlatienza-eng/sort-junk)**: a Windows desktop app that tidies Downloads and Screenshots folders. It plans every move without touching the disk, shows a preview first, never overwrites a file, and can undo everything. It runs fully offline and is released from CI with SHA-256 checksums.
+`Python` `Tkinter` `Windows API` `PyInstaller`
 
 **Whack.io — Arduino-Based Interactive Game (2026)** — Two-player interactive arcade system built with JPCS. Programmed core game logic in C++ on an Arduino Mega, handling real-time button input, LED feedback, and score tracking across multiple integrated hardware components; contributed primarily to the physical build — wiring and hardware assembly.
 `C++` `Arduino Mega`
