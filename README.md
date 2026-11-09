@@ -16,7 +16,7 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,ts,py,java,cpp,androidstudio,react,nestjs,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,ts,js,py,androidstudio,react,nestjs,fastapi&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,pytorch,sklearn,docker,git,arduino,cisco&theme=dark" />
 
@@ -26,7 +26,7 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 
 ## Projects
 
-**[bantAI](https://github.com/gncrlatienza-eng/bantAI)** — Android app that classifies SMS smishing on-device in real time. Fine-tuned XLM-RoBERTa, HDBSCAN campaign clustering, NestJS backend hardened with rate limiting, JWT best practices, and dependency scanning.
+**[bantAI](https://github.com/gncrlatienza-eng/bantAI)** — Thesis project built by a team of four: an Android app that classifies SMS smishing in real time, with an on-device model as the offline fallback. I built the Android app, including default-SMS handling, privacy masking on the phone, the classification flow, and release builds. The system uses a fine-tuned XLM-RoBERTa model, HDBSCAN campaign clustering, and a NestJS backend with rate limiting and JWT auth.
 `Kotlin` `Jetpack Compose` `NestJS` `PyTorch` `PostgreSQL`
 
 **[TruePositive](https://github.com/gncrlatienza-eng/truepositive)** ([live](https://truepositive-alpha.vercel.app)): a beginner-friendly SIEM. A Windows agent ships Event Logs to a FastAPI backend that scores them against MITRE-mapped rules, and the dashboard explains each alert in plain language. I reviewed it against OWASP ASVS, removed a local privilege escalation from the agent's own design, and deployed it on free tiers with CI on every push.
@@ -34,6 +34,9 @@ I build full products end to end — mobile, backend, ML — then focus on the s
 
 **[SortJunk](https://github.com/gncrlatienza-eng/sort-junk)**: a Windows desktop app that tidies Downloads and Screenshots folders. It plans every move without touching the disk, shows a preview first, never overwrites a file, and can undo everything. It runs fully offline and is released from CI with SHA-256 checksums.
 `Python` `Tkinter` `Windows API` `PyInstaller`
+
+**[CITE-TMS](https://github.com/gncrlatienza-eng/cite-tms-frontend)** ([API](https://github.com/gncrlatienza-eng/cite-tms-backend)): a thesis and research repository for our college, built with two teammates. Hybrid search combines BM25 keyword matching with semantic embeddings, and students, authors and admins each get role-based access. I worked on Google sign-in, the admin dashboard, the search engine, and deployment.
+`React` `FastAPI` `Supabase` `Python` `Tailwind CSS`
 
 **Whack.io — Arduino-Based Interactive Game (2026)** — Two-player interactive arcade system built with JPCS. Programmed core game logic in C++ on an Arduino Mega, handling real-time button input, LED feedback, and score tracking across multiple integrated hardware components; contributed primarily to the physical build — wiring and hardware assembly.
 `C++` `Arduino Mega`
